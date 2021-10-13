@@ -2,7 +2,7 @@ def reverse(string):
     string = string[::-1]
     return string
 
-s = "Berserk"
+s = "Guts"
 
 print("Original string is",s)
 
